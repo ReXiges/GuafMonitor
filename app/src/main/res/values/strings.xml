@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Guaf!</string>
+    <string name="title_activity_monitoreo">Monitoreo</string>
+    <string name="title_activity_main_menu">MainMenu</string>
 </resources>
